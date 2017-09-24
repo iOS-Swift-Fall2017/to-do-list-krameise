@@ -15,6 +15,7 @@
 		E54D1F4F1F75D52A004CFEF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E54D1F4D1F75D52A004CFEF7 /* LaunchScreen.storyboard */; };
 		E54D1F5A1F75D52A004CFEF7 /* To_Do_List2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E54D1F591F75D52A004CFEF7 /* To_Do_List2Tests.swift */; };
 		E54D1F651F75D52A004CFEF7 /* To_Do_List2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E54D1F641F75D52A004CFEF7 /* To_Do_List2UITests.swift */; };
+		E54D1F731F75DB74004CFEF7 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E54D1F721F75DB74004CFEF7 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E54D1F601F75D52A004CFEF7 /* To Do List2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "To Do List2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E54D1F641F75D52A004CFEF7 /* To_Do_List2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = To_Do_List2UITests.swift; sourceTree = "<group>"; };
 		E54D1F661F75D52A004CFEF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E54D1F721F75DB74004CFEF7 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				E54D1F411F75D52A004CFEF7 /* AppDelegate.swift */,
 				E54D1F431F75D52A004CFEF7 /* ViewController.swift */,
+				E54D1F721F75DB74004CFEF7 /* DetailViewController.swift */,
 				E54D1F451F75D52A004CFEF7 /* Main.storyboard */,
 				E54D1F4B1F75D52A004CFEF7 /* Assets.xcassets */,
 				E54D1F4D1F75D52A004CFEF7 /* LaunchScreen.storyboard */,
@@ -265,6 +268,7 @@
 				E54D1F441F75D52A004CFEF7 /* ViewController.swift in Sources */,
 				E54D1F421F75D52A004CFEF7 /* AppDelegate.swift in Sources */,
 				E54D1F4A1F75D52A004CFEF7 /* To_Do_List2.xcdatamodeld in Sources */,
+				E54D1F731F75DB74004CFEF7 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
